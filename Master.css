@@ -1,0 +1,77 @@
+body{
+  background-image: url(background.jpg);
+  background-size: 100%
+}
+body > header{
+  text-align: center;
+  position: sticky;
+}
+#foto{
+  opacity: 0.4;
+  margin-left: 280px;
+  margin-top: 35px;
+  width: 1020px;
+  height: 690px;
+  border-radius: 17px;
+  position: relative;
+}
+#logo{
+  margin-top: 100px;
+  height: auto;
+  width: 200px;
+}
+header > h2 {
+  color: #00FF00;
+  margin-top: 6px;
+  text-align: inherit;
+  font-size: 25px;
+  <font face=”Arial”>Taking Booleaners from A to B</font>
+  }
+  .grandezza{
+    font-size: 11px;
+  }
+.rettangolo {
+  background-color: lime;
+  border: 8px solid lime;
+  display: inline;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+main{
+  margin-top: 30px;
+  margin-left: 365px;
+}
+.scelta{
+  font-size: 25px;
+}
+.scelta, .via{
+  color: white;
+  position: relative;
+
+}
+.carica1{
+  width: 260px;
+  background-color: #F4A460;
+  position: relative;
+
+}
+.option2{
+  margin-top: 30px;
+}
+.carica2{
+  width: 500px;
+  background-color: lime;
+  position: relative;
+}
+.carica3{
+  width: 130px;
+  background-color: #cb3234;
+  position: relative;
+}
+.carica1, .carica2, .carica3{
+  border-radius: 5px;
+  height: 23px;
+}
+.option1, .option2{
+  position: relative;
+}
